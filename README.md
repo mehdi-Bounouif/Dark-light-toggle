@@ -1,3 +1,1 @@
-# Dark-light-toggle
-Dark/light toggle
- ! [darck/light toggle]
+![dark_light_toggle](images/dark-light-toggle.jpg);
